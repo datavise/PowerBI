@@ -5,4 +5,4 @@
 ## Basic DAX Functions
 
 * [Concatenate](basic-dax-functions/concatenate.md)
-* [YEAR](basic-dax-functions/year.md)
+* [Date Functions](basic-dax-functions/date-functions.md)
