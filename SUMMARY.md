@@ -12,3 +12,9 @@
 ## Calculated Measures
 
 * [About Measures](calculated-measures/about-measures.md)
+* [Examples](calculated-measures/examples.md)
+
+## Filter context
+
+* [Filter context](filter-context/filter-context.md)
+* [CALCULATE](filter-context/calculate.md)
